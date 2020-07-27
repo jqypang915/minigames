@@ -9,6 +9,11 @@ Although I am primarily more focused on Data Science and Machine Learning, I sti
 ## Currents Games:
 * TicTacToe 
   * Human vs Human
-  * AI (with Minimax) vs Human
-  
-  
+  * AI vs Human
+    
+## Algorithms Used:
+* Minimax: For AI in TicTacToe Game
+
+## Resources:
+* TicTacToe
+  * Intellij with openjdk-14 (java version 14.0.1)
